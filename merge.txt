@@ -1,2 +1,2 @@
-I made changes on this line
-and this one too.
+coworker changed this line
+and this line too.
